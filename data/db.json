@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "This is the way the world ends",
+      "body": "lorem ipsum...",
+      "author": "DOM",
+      "id": 0
+    },
+    {
+      "title": "My first blog!",
+      "body": "Why do we use it?\nIt is a long established fact that an ordinary reader would ordinarily be distracted by the horendous factors of life in such a manner that even if all evidence points to te fact that such matters as a matter of all sincerity does exist the said reader would still rather wobble in ignorance",
+      "author": "Amogu",
+      "id": 1
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "Ashafa",
+      "id": 2
+    },
+    {
+      "title": "Intro to UI design",
+      "body": "lorem ipsum...",
+      "author": "Normanyo",
+      "id": 3
+    },
+    {
+      "title": "something",
+      "body": "lorem...",
+      "author": "Luigi",
+      "id": 4
+    }
+  ]
+}
